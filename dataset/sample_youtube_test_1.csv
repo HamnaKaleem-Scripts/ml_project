@@ -1,0 +1,3 @@
+channelId,channelTitle,videoId,publishedAt,videoTitle,videoDescription,videoCategoryId,videoCategoryLabel,duration,durationSec,definition,caption,viewCount,likeCount,dislikeCount,commentCount
+UC123,Cute Channel,vid001,2023-01-01T12:00:00Z,My First Cute Video,This is a test description about a lovely video.,24,Entertainment,PT5M12S,312,hd,false,10000,800,10,100
+UC456,Fun Vlogs,vid002,2023-01-02T15:30:00Z,Exploring a Fun Park!,A day in the park with fun activities.,22,People & Blogs,PT8M45S,525,hd,true,15000,1200,15,180

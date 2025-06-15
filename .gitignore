@@ -1,12 +1,17 @@
-# Ignore virtual environment
+# Virtual environment
 venv/
+.venv/
 
-# Ignore Python cache
+# Python cache
 __pycache__/
+*.pyc
 
-# Ignore model files (optional)
-*.pkl
+# Model files
+backend/models/*.pkl
 
-# Ignore Jupyter and system files
-*.ipynb_checkpoints/
+# Streamlit cache
+.streamlit/
+
+# OS files
 .DS_Store
+Thumbs.db
