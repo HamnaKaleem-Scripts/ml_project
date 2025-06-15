@@ -29,9 +29,7 @@ ml_project/
 │   ├── train_model.py           ← Trains ML model & saves .pkl files
 │   ├── data_preprocessing.py    ← Cleans dataset, encodes text, builds features
 │   ├── inference_utils.py       ← Utility used to vectorize and align inputs for predictions
-│   └── models/
-│       ├── like_ratio_model.pkl       ← Trained Gradient Boosting model
-│       └── tfidf_vectorizer.pkl       ← TF-IDF vectorizer used in training
+
 ├── dataset/
 │   ├── Trending videos on youtube dataset.csv   ← Main training dataset
 │   ├── sample_youtube_test_1.csv                ← Test sample 1
