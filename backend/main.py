@@ -97,9 +97,9 @@ def stats():
         }
     }
 
-# ===========================
+
 # 🏠 Optional Root Test
-# ===========================
+
 @app.get("/")
 def home():
     return {"message": "🚀 YouTube Popularity API is running!"}
