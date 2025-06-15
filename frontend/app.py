@@ -41,6 +41,7 @@ if page == "🏠 Home":
     """, unsafe_allow_html=True)
     if lottie_cute:
         st_lottie(lottie_cute, height=250, key="cute")
+# About the project section: what it does, how it's built, and who's behind it
     st.markdown("""
         ### 🌟 About This Project
         This adorable Streamlit app uses Machine Learning to predict the *Like Ratio* of YouTube videos — that's likes divided by views 💞. 
