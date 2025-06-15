@@ -6,9 +6,9 @@ import os
 import numpy as np
 from scipy.sparse import hstack
 
-# ===========================
+# =========================
 # 🔧 App Initialization
-# ===========================
+# =========================
 app = FastAPI(title="YouTube Popularity Predictor API",
               description="Predict video popularity using ML and NLP",
               version="1.0")
