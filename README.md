@@ -176,18 +176,6 @@ cd frontend
 streamlit run app.py
 ```
 
----
-
-## 👥 Team Members & Roles
-
-| Name       | Role                                                  |
-|------------|-------------------------------------------------------|
-| **Hamna**      | Backend Developer (FastAPI), Integration, GitHub management |
-| **Muqadsa**    | Data Cleaning, Preprocessing, Model Training      |
-| **Tehreem**    | Streamlit Frontend Development, UI/UX             |
-
----
-
 > Built with 💙 and Python by 3 developers passionate about making data-driven predictions that matter.
 
 
