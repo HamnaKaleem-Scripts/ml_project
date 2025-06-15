@@ -97,11 +97,7 @@ elif page == "📊 Data Insights":
     fig4 = px.histogram(sample_data, x='publish_hour', nbins=24, color='videoCategoryLabel', title='Publish Time (Hour of Day)', template="plotly_dark")
     st.plotly_chart(fig4)
 
-    st.write("### 🧮 Like Ratio Distribution")
-    sample_data = sample_data[sample_data['viewCount'] > 0]
-    sample_data['likeRatio'] = sample_data['likeCount'] / sample_data['viewCount']
-    fig5 = px.histogram(sample_data, x='likeRatio', nbins=40, color='videoCategoryLabel', title='Distribution of Like Ratios 💖', template="plotly_dark")
-    st.plotly_chart(fig5)
+   
 
     st.write("### ❌ Missing Values Overview")
     missing = sample_data.isnull().sum().reset_index()
