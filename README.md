@@ -166,17 +166,7 @@ http://127.0.0.1:8000/docs
 streamlit run frontend/streamlit_app.py
 ```
 
----
 
-## 👥 Team Members & Roles
-
-| Name     | Role                                             |
-|----------|--------------------------------------------------|
-| **Hamna**   | Backend API Developer (FastAPI), Integration, Deployment |
-| **Muqadsa** | Data Cleaning, Feature Engineering, Model Training       |
-| **Tehreem** | Streamlit Frontend UI, User Experience Design            |
-
----
 
 > ✨ Built with love, Python, and a shared passion for tech-powered insights.
 
