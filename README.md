@@ -1,7 +1,6 @@
 # ml_project
 # 🎥 YouTube Video Popularity Predictor 📈
 
-# 🎥 YouTube Popularity Predictor
 
 **Predict whether a YouTube video will go viral — before it's uploaded.**  
 This project uses **Machine Learning** and **Natural Language Processing (NLP)** to estimate a video's **like/view ratio** based on its metadata — including title, tags, category, and duration.
